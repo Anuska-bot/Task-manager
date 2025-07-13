@@ -244,3 +244,13 @@ ul li span:hover{
     color: #888;
     margin-left: 10px;
 }
+#counter{
+    font-size: 16px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    font-weight: 500;
+    color: #224378;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
